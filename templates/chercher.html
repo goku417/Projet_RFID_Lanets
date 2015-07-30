@@ -2,23 +2,13 @@
 {% block body %}
   <h1 class="header center orange-text">Bienvenue {{ username }}</h1>
       <div class="row center">
-        <h3>Création d'un bénévole dans la base de donnée:</h3>
+        <h3>Recherche d'un bénévole</h3>
           <div class="row">
-            <form class="col s12" action="creer" method="POST">
-              <div class="row">
-                <div class="input-field col s6">
-                  <input placeholder="Prénom" name="prenom" type="text" class="validate">
-                  <label for="prenom">Prénom</label>
-                </div>
-                <div class="input-field col s6">
-                  <input placeholder="Nom" name="nom" type="text" class="validate">
-                  <label for="nom">Nom</label>
-                </div>
-              </div>
+            <form class="col s12" action="chercher" method="POST">
               <div class="row">
                 <div class="input-field col s12">
                   <input placeholder="XXXXXXXXXX" name="rfid" type="text" class="validate">
-                  <label for="rfid">Jeton RFID</label>
+                  <label for="rfid">Entrer le RFID</label>
                 </div>
                   <input type="submit" style="position: absolute; left: -9999px"/>
               </div>

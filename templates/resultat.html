@@ -1,0 +1,23 @@
+{% extends "template.html" %}
+{% block body %}
+  <h1 class="header center orange-text">Résultat</h1>
+      <div class="row center">
+        <h3>{{ prenom }} {{ nom }}</h3>
+          <li>Jeton RFID: {{ rfid }}</li>
+          <li>Nombre Coupon Repas consommé: {{ nb_repas }}</li>
+          <li>Nombre Coupon Collation consommé: {{ nb_collations }}</li>
+          <form id="benevole" action="/ajouter" method="post">
+              <input name="rfid" value="{{ rfid }}" type="hidden"/>
+              <input name="prenom" value="{{ prenom }}" type="hidden"/>
+              <input name="nom" value="{{ nom }}" type="hidden"/>
+              <div class="col l12 m12 s12 center">
+                  <select class="browser-default" name="coupon">
+                      <option value="" disabled selected>Choisir le type de coupons</option>
+                      <option value="repas">Repas</option>
+                      <option value="collation">Collation</option>
+                  </select>
+              </div>
+              <button class="waves-effect waves-light btn orange" type="submit" >Ajoutez un coupon</button>
+          </form>
+      </div>
+{% endblock %}

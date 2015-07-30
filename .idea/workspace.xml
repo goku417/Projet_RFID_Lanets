@@ -22,11 +22,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="error.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/error.html">
+      <file leaf-file-name="RFID_LanETS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RFID_LanETS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.46841294">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+              <folding>
+                <element signature="e#46#75#0" expanded="true" />
+                <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+                <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+                <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+                <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+                <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+                <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+                <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+                <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+                <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+                <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+                <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+                <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+                <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+                <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+                <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+                <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+                <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+                <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resultat.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/resultat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,18 +82,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RFID_LanETS.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RFID_LanETS.py">
+      <file leaf-file-name="Liste_Coupons.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Liste_Coupons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5205479">
-              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-              <folding>
-                <element signature="e#46#69#0" expanded="true" />
-                <marker date="1438055890000" expanded="true" signature="1316:1360" placeholder="SELECT passw..Admins..." />
-                <marker date="1438055890000" expanded="true" signature="1934:1955" placeholder="INSERT INTO ..." />
-                <marker date="1438055890000" expanded="true" signature="1934:1975" placeholder="INSERT INTO ..." />
-                <marker date="1438055890000" expanded="true" signature="1934:1995" placeholder="INSERT INTO ..." />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,21 +95,19 @@
       <file leaf-file-name="succes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/succes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="creer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/creer.html">
+      <file leaf-file-name="ajouter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/ajouter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="e#1066#1107#0#HTML" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,8 +115,18 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chercher.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/chercher.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -93,28 +135,8 @@
       <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.625">
-              <caret line="46" column="96" selection-start-line="46" selection-start-column="96" selection-end-line="46" selection-end-column="96" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Benevole.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Benevole.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Horaire.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Horaire.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+            <state vertical-scroll-proportion="-15.333333">
+              <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -140,11 +162,14 @@
         <option value="$PROJECT_DIR$/Horaire.py" />
         <option value="$PROJECT_DIR$/Benevole.py" />
         <option value="$PROJECT_DIR$/templates/error.html" />
-        <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/templates/template.html" />
         <option value="$PROJECT_DIR$/templates/manage.html" />
         <option value="$PROJECT_DIR$/templates/succes.html" />
         <option value="$PROJECT_DIR$/templates/creer.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/chercher.html" />
+        <option value="$PROJECT_DIR$/templates/ajouter.html" />
+        <option value="$PROJECT_DIR$/templates/resultat.html" />
         <option value="$PROJECT_DIR$/RFID_LanETS.py" />
       </list>
     </option>
@@ -157,9 +182,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-215" />
+    <option name="x" value="11" />
     <option name="y" value="23" />
-    <option name="width" value="1381" />
+    <option name="width" value="1428" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -185,7 +210,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -232,9 +256,46 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RFID_LanETS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RFID_LanETS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RFID_LanETS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RFID_LanETS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,20 +538,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-215" y="23" width="1381" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="11" y="23" width="1428" height="873" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40332907" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13316262" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2098581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14430015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -511,11 +572,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/error.html">
+    <entry file="file://$PROJECT_DIR$/Liste_Coupons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/succes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/creer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chercher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Benevole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -531,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,7 +655,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>
@@ -557,6 +690,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -564,6 +698,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +730,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>
@@ -613,6 +765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -620,6 +773,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +798,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>
@@ -653,6 +825,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -660,6 +833,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +850,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>
@@ -685,6 +877,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,6 +885,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +902,25 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>
@@ -741,25 +953,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Coupon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Liste_Coupons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6772009">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Horaire.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,6 +964,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.25">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coupon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -775,6 +979,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/creer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.333333">
+          <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -789,48 +1009,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.625">
-          <caret line="46" column="96" selection-start-line="46" selection-start-column="96" selection-end-line="46" selection-end-column="96" />
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/succes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/creer.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#1066#1107#0#HTML" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liste_Coupons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chercher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ajouter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/resultat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RFID_LanETS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5205479">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.46841294">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
-            <marker date="1438055890000" expanded="true" signature="1316:1360" placeholder="SELECT passw..Admins..." />
-            <marker date="1438055890000" expanded="true" signature="1934:1955" placeholder="INSERT INTO ..." />
-            <marker date="1438055890000" expanded="true" signature="1934:1975" placeholder="INSERT INTO ..." />
-            <marker date="1438055890000" expanded="true" signature="1934:1995" placeholder="INSERT INTO ..." />
+            <element signature="e#46#75#0" expanded="true" />
+            <marker date="1438287767000" expanded="true" signature="1386:1430" placeholder="SELECT passw..Admins..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2025" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2045" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2004:2065" placeholder="INSERT INTO ..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2485" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2499" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="2463:2500" placeholder="SELECT * FRO..Benevole..." />
+            <marker date="1438287767000" expanded="true" signature="3782:3821" placeholder="SELECT Repas..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3971" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3978" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="3951:3992" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4076:4106" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4262" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4231:4263" placeholder="UPDATE Coupo..." />
+            <marker date="1438287767000" expanded="true" signature="4393:4437" placeholder="SELECT Colla..Benevoles..." />
+            <marker date="1438287767000" expanded="true" signature="4567:4613" placeholder="UPDATE Benev..." />
+            <marker date="1438287767000" expanded="true" signature="4697:4731" placeholder="SELECT Total..Coupons..." />
+            <marker date="1438287767000" expanded="true" signature="4856:4892" placeholder="UPDATE Coupo..." />
           </folding>
         </state>
       </provider>

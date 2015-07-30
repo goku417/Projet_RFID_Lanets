@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from Benevole import Benevole
 from flask import Flask
 from flask import render_template
 from flask import request
@@ -14,6 +15,7 @@ app.config['MYSQL_DB'] = 'rfid_lanets'
 mysql.init_app(app)
 authorize = False
 username = None
+liste_benevole = []
 
 @app.route('/')
 def index():
@@ -36,7 +38,7 @@ def login():
             return render_template('manage.html', username=username)
         else:
             return render_template('error.html')
-
+@app.route('/gerer')
 def gerer():
     return render_template('manage.html')
 
@@ -65,6 +67,69 @@ def creer_benevole():
         cur.execute('''INSERT INTO Benevoles (Prenom, Nom, rfid) VALUES (%s, %s, %s)''', (prenom, nom, rfid,))
         conn.commit()
         return render_template('succes.html', user=prenom)
+
+@app.route('/chercher', methods=['GET', 'POST'])
+def chercher_benevole():
+    personne = None
+    if request.method == 'GET':
+        return render_template('chercher.html')
+    elif request.method == 'POST':
+        conn = mysql.connect
+        cur = conn.cursor()
+        cur.execute('''SELECT * FROM Benevoles where rfid = %s''', (request.form['rfid'],))
+        data = cur.fetchall()
+
+        if data is None :
+            return render_template('notfound.html')
+        else:
+            if len(liste_benevole) > 0:
+                for benevole in liste_benevole:
+                    if benevole.get_rfid() == request.form['rfid']:
+                        personne = benevole
+            else:
+                print data[0][1]
+                print data[0][2]
+                print data[0][3]
+                personne = Benevole(data[0][1],data[0][2], data[0][3])
+                liste_benevole.append(personne)
+
+        return render_template('resultat.html', prenom=personne.get_first_name(),
+                               nom=personne.get_last_name(), rfid=personne.get_rfid(),
+                               nb_repas=personne.liste_coupons.get_count_liste('repas'),
+                               nb_collations=personne.liste_coupons.get_count_liste('collation'))
+
+@app.route('/ajouter', methods=['POST'])
+def ajouter_coupon():
+    rfid = request.form['rfid']
+    type_coupon = request.form['coupon']
+    for x in liste_benevole:
+        if x.get_rfid() == rfid:
+            conn = mysql.connect
+            cur = conn.cursor()
+            if type_coupon == 'repas':
+                cur.execute('''SELECT Repas FROM Benevoles WHERE rfid=%s''', (rfid,))
+                data = cur.fetchall()
+                nombre = int(data[0][0]) + 1
+                cur.execute('''UPDATE Benevoles SET Repas=%s WHERE rfid=%s''', (nombre,rfid,))
+                conn.commit()
+                cur.execute('''SELECT TotalRepas FROM Coupons''')
+                data = cur.fetchall()
+                nombre_total = int(data[0][0]) + 1
+                cur.execute('''UPDATE Coupons SET TotalRepas = %s''', (nombre_total,))
+                conn.commit()
+            elif type_coupon == 'collation':
+                cur.execute('''SELECT Collations FROM Benevoles WHERE rfid=%s''', (rfid,))
+                data = cur.fetchall()
+                nombre = int(data[0][1]) + 1
+                cur.execute('''UPDATE Benevoles SET Collations=%s WHERE rfid=%s''', (nombre,rfid,))
+                conn.commit()
+                cur.execute('''SELECT TotalCollation FROM Coupons''')
+                data = cur.fetchall()
+                nombre_total = int(data[0][0]) + 1
+                cur.execute('''UPDATE Coupons SET TotalCollation = %s''', (nombre_total,))
+                conn.commit()
+
+    return render_template('ajouter.html', prenom=request.form['prenom'], coupon=type_coupon)
 
 if __name__ == '__main__':
     app.debug = True

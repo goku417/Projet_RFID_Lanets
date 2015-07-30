@@ -19,3 +19,8 @@ Debut varchar(255),
 Fin varchar(255),
 user_rfid varchar(255)
 );
+
+CREATE TABLE Coupons(
+TotalRepas int,
+TotalCollation int
+);
